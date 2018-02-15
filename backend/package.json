@@ -1,0 +1,11 @@
+{
+  "author": "Krzysztof Betlej",
+  "dependencies": {
+    "express": "^4.15.4"
+  },
+  "description": "Test application to check what extension can do ",
+  "license": "Apache-2.0",
+  "main": "extest.js",
+  "name": "twitch-extension-extest",
+  "version": "0.0.1"
+}
