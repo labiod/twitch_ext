@@ -1,0 +1,17 @@
+html {
+    background: black;
+}
+div {
+    margin: 0;
+    padding: 0;
+}
+
+#top_panel {
+    padding: 10px 10px;
+    color: #4491dd;
+    background: #8a48b64f;
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+}
