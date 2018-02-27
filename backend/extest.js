@@ -5,6 +5,7 @@ const fs = require('fs');
 const https = require('https');
 
 const app = express();
+console.log("start");
 
 app.use((req, res, next) => {
     console.log("Request path", req.path );
